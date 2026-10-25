@@ -1,6 +1,6 @@
 # 🏥 MaternalAI: Clinical Mode Prediction System
 
-[![GitHub Repository](https://img.shields.io/badge/GitHub-Delivery--Mode--Prediction--ML--MaternalAI-181717?style=for-the-badge&logo=github)](https://github.com/sohailkhann181/Delivery-Mode-Prediction-ML-MaternalAI)
+[![GitHub Repository](https://img.shields.io/badge/GitHub-Delivery--Mode--Prediction--ML--MaternalAI-181717?style=for-the-badge&logo=github)](https://github.com/Sohaildevv/Delivery-Mode-Prediction-ML-MaternalAI)
 [![Next.js](https://img.shields.io/badge/Next.js-14-black?style=for-the-badge&logo=next.js)](https://nextjs.org/)
 [![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
 [![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)](https://tailwindcss.com/)
@@ -31,7 +31,7 @@ MaternalAI is a specialized full-stack application designed to predict maternal 
 
 ### 1. Clone Repository
 ```bash
-git clone https://github.com/sohailkhann181/Delivery-Mode-Prediction-ML-MaternalAI.git
+git clone https://github.com/Sohaildevv/Delivery-Mode-Prediction-ML-MaternalAI.git
 cd Delivery-Mode-Prediction-ML-MaternalAI
 ```
 
@@ -55,7 +55,7 @@ Navigate to [http://localhost:3000](http://localhost:3000) in your browser.
 ## 📚 Project Authors & Contributors
 
 - Spearheaded by **Azhar Nawaz** and Associate Members - Final Year Pharmacy Students.
-- Repository maintained by [**Sohail Khan**](https://github.com/sohailkhann181).
+- Repository maintained by [**Sohail Khan**](https://github.com/Sohaildevv).
 
 ---
 © 2026 MaternalAI Research Project | Clinical Pharmacy Innovation
